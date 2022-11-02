@@ -2,7 +2,7 @@
     "bot": {
         "token": "bot token",
         "prefix": "t!",
-        "testguild": "624420817211621376",
+        "testguild": "1023439462417563678",
         "owner": "611662253606830120"
     },
     "embed": {
