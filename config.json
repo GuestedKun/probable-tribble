@@ -1,0 +1,18 @@
+{
+    "bot": {
+        "token": "bot token",
+        "prefix": "t!",
+        "testguild": "624420817211621376",
+        "owner": "611662253606830120"
+    },
+    "embed": {
+        "color": "RANDOM",
+        "footer": "Made by @Noobmaster69#8856"
+    },
+    "panel": {
+        "panelurl": "",
+        "panelname": "",
+        "panelapikey": "",
+        "panelclientapikey": ""
+    }
+}
